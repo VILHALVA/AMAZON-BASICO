@@ -15,4 +15,3 @@
 ## CREDITOS:
 - [PROJETO CRIADO PELO "Ironhack-Archive"](https://github.com/Ironhack-Archive/online-clone-amazon)
 - [PROJETO EDITADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
